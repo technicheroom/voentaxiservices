@@ -3,6 +3,29 @@ body {
     text-align: center;
 }
 
-.scale {
+img {
     width: 100%;
+    height: auto;
 }
+
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+
+.bottom {
+    position: absolute;
+    bottom: 50%;
+    left: 16px;
+  }
+
+  .telephone {
+    position: absolute;
+    bottom: 40%;
+    left: 16px;
+  }
+
